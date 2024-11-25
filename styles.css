@@ -229,3 +229,11 @@
     padding-left: 3px;
   }
 
+  .form-button button {
+    padding: 10px 25px;
+    border-radius: 7px;
+    border: 1px solid rgb(189, 189, 189);
+    box-shadow: 0 2px 3px rgb(162, 163, 163);
+    background-color: #3b607c;
+  }
+
