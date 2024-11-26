@@ -256,7 +256,6 @@
   #password:invalid + span::after {
     content: "* Passwords do not match";
     color: rgb(207, 27, 27);
-    position: absolute;
     font-size: 12px;
   }
 
