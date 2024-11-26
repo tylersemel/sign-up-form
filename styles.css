@@ -265,3 +265,7 @@
     border: 2px solid #4581b0;
     box-shadow: 0 2px 3px rgb(162, 163, 163);
   }
+
+  input[type="email"] {
+    background-color: none;
+  }
